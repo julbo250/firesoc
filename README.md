@@ -1,5 +1,8 @@
 # Éditeur de places.sqlite
 
+<img width="1408" height="615" alt="Capture d’écran 2026-02-07 à 09 19 02" src="https://github.com/user-attachments/assets/c94279b4-3933-4b88-9e49-7712f06b54ef" />
+
+
 ## Description
 
 Cette application permet d’**éditer et d’analyser le fichier `places.sqlite`** situé dans le répertoire du **profil utilisateur** (notamment utilisé par les navigateurs basés sur Firefox).
